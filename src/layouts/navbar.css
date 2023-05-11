@@ -1,0 +1,31 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(19, 46, 19);
+  align-items: center;
+  height: 100px;
+  position: sticky;
+  /* top: 0; */
+}
+.navright {
+  display: flex;
+}
+.ullist {
+  display: flex;
+  list-style: none;
+}
+li {
+  padding-right: 10px;
+}
+.link {
+  color: wheat;
+  text-decoration: none;
+}
+header {
+  padding-left: 30px;
+  color: white;
+  font-size: 40px;
+  -webkit-text-stroke: 1px #23430c;
+  text-shadow: -1px 1px 2px #23430c, 1px 1px 2px #23430c, 1px -1px 0 #23430c,
+    -1px -1px 0 #23430c;
+}

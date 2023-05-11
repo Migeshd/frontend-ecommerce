@@ -1,0 +1,12 @@
+.card-text{
+  max-height: 5em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.card-img-top-1{
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+height: 12em;
+}
